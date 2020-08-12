@@ -1,5 +1,5 @@
 {
-  "name": "bch-wallet-starter",
+  "name": "temp-site",
   "description": "A BCH web wallet starter for Gatsby.",
   "version": "1.0.0",
   "license": "MIT",
@@ -20,14 +20,8 @@
   },
   "dependencies": {
     "gatsby": "^2.23.7",
-    "gatsby-ipfs-web-wallet": "^1.9.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Permissionless-Software-Foundation/bch-wallet-starter"
-  },
-  "bugs": {
-    "url": "https://github.com/Permissionless-Software-Foundation/bch-wallet-starter/issues"
+    "gatsby-ipfs-web-wallet": "^1.9.2",
+    "temp-plugin": "christroutner/temp-plugin"
   },
   "devDependencies": {
     "semantic-release": "^17.1.1",
