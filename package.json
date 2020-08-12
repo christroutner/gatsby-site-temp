@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "gatsby": "^2.23.7",
-    "gatsby-ipfs-adminlte": "^1.0.1",
+    "gatsby-ipfs-adminlte": "Permissionless-Software-Foundation/gatsby-ipfs-adminlte#ct-unstable",
     "temp-plugin": "christroutner/temp-plugin"
   },
   "devDependencies": {
