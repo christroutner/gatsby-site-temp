@@ -6,5 +6,5 @@
 
 module.exports = {
   /* Your site config here */
-  plugins: ['gatsby-ipfs-web-wallet', require.resolve('../temp-plugin')]
+  plugins: ['gatsby-ipfs-adminlte', require.resolve('../temp-plugin')]
 }
