@@ -21,7 +21,7 @@
   "dependencies": {
     "gatsby": "^2.23.7",
     "gatsby-ipfs-adminlte": "Permissionless-Software-Foundation/gatsby-ipfs-adminlte#ct-unstable",
-    "temp-plugin": "christroutner/temp-plugin"
+    "@chris.troutner/gatsby-plugin-temp": "^1.0.0"
   },
   "devDependencies": {
     "semantic-release": "^17.1.1",

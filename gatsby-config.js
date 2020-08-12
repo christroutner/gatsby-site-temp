@@ -6,5 +6,8 @@
 
 module.exports = {
   /* Your site config here */
-  plugins: ['gatsby-ipfs-adminlte', require.resolve('../temp-plugin')]
+  plugins: [
+    'gatsby-ipfs-adminlte',
+    '@chris.troutner/gatsby-plugin-temp'
+  ]
 }

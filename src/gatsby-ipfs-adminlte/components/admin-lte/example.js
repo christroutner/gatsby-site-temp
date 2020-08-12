@@ -1,6 +1,8 @@
 import React from 'react'
 import DefaultExample from 'gatsby-ipfs-adminlte/src/components/admin-lte/example'
 import { Content, Row, Col, Box, Button } from 'adminlte-2-react'
+import POToggle from '@chris.troutner/gatsby-plugin-temp/src/components/toggle'
+// import POToggle from '../../../components/toggle'
 
 let _this
 
@@ -56,6 +58,7 @@ class Example extends DefaultExample {
         </Col>
         <Col xs={6}>
           <Box title="A Fourth Box">Content goes here</Box>
+          <POToggle />
         </Col>
       </Row>
     )
